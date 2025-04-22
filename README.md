@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Kelecypt0
 - 👀 I’m interested in Web3 
-- 🌱 I’m currently learning crypto marketing 
-- 💞️ I’m looking to collaborate on Web3 project 
+- ✨ I'm into Web3 Education and content creation 
 - 📫 How to reach me on X and Telegram @Kelecypt0 
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:I'm a simple person 
 
 <!---
 Kelecypt0/Kelecypt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
